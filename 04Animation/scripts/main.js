@@ -1,6 +1,6 @@
-var rotationSpeed = 0.05;
-var positionSpeed = 0.02;
-var scale = 0.08;
+var rotationSpeed = 0.01;
+var positionSpeed = 0.01;
+var scale = 0.01;
 var myOtherBox = document.getElementById('myOtherBox');
 
 function spin(){
